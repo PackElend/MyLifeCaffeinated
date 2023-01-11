@@ -36,4 +36,16 @@ here is my summery
      https://user-images.githubusercontent.com/3542031/196006363-8536c792-e0cf-4d03-857b-601c40936dbf.mp4
      </details>   
 
+5. Attempt, 11.Jan 2023, filled the hopper, cleared cache
+video failed but stopped at around 3 gramms but wanted 9 grams 
+7. Attempt, 11.Jan 2023
+     <details><summary>Videos!</summary>
+     https://user-images.githubusercontent.com/3542031/211867325-ea551998-ae2c-46e8-8c8f-ac814a2c65a8.mp4
+     </details>   
+8. Attempt, 11.Jan 2023
+     <details><summary>Videos!</summary>
+     https://user-images.githubusercontent.com/3542031/211867705-9c32b3a7-4775-4dc4-bf80-5059bcbe9f4d.mp4
+     </details>   
+
+
   
