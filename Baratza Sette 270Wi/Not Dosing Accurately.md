@@ -46,6 +46,15 @@ video failed but stopped at around 3 gramms but wanted 9 grams
      <details><summary>Videos!</summary>
      https://user-images.githubusercontent.com/3542031/211867705-9c32b3a7-4775-4dc4-bf80-5059bcbe9f4d.mp4
      </details>   
+9. Attempt, 18.Feb 2023, 
+     replaced the gearbox noise it gone. I could not detect any damge on the gearbox. Could be due to the dry greas.
+     <details><summary>Videos!</summary>
+     https://github.com/PackElend/MyLifeCaffeinated/assets/3542031/8cf02815-ab96-4d19-a23f-7d10315f9922
+     </details>   
+
+
+
+
 
 
   
